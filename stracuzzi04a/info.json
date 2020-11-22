@@ -1,0 +1,16 @@
+{
+    "abstract": "Variable selection, the process of identifying input variables that \nare relevant to a particular learning problem, has received much \nattention in the learning community. Methods that employ a learning\nalgorithm as a part of the selection process (wrappers) have been \nshown to outperform methods that select variables independently \nfrom the learning algorithm (filters), but only at great computational \nexpense. We present a randomized wrapper algorithm whose computational \nrequirements are within a constant factor of simply learning in the \npresence of all input variables, provided that the number of relevant \nvariables is small and known in advance. We then show how to remove \nthe latter assumption, and demonstrate performance on several problems.",
+    "authors": [
+        "David J. Stracuzzi",
+        "Paul E. Utgoff"
+    ],
+    "id": "stracuzzi04a",
+    "issue": 48,
+    "pages": [
+        1331,
+        1362
+    ],
+    "title": "Randomized Variable Elimination",
+    "volume": "5",
+    "year": "2004"
+}

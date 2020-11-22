@@ -1,0 +1,16 @@
+{
+    "abstract": "Feature selection is applied to reduce the number of\nfeatures in many applications where data has hundreds or thousands\nof features. Existing feature selection methods mainly focus on\nfinding relevant features. In this paper, we show that feature\nrelevance alone is insufficient for efficient feature selection of\nhigh-dimensional data. We define feature redundancy and propose to\nperform explicit redundancy analysis in feature selection. A new\nframework is introduced that decouples relevance analysis and\nredundancy analysis. We develop a correlation-based method for\nrelevance and redundancy analysis, and conduct an empirical study\nof its efficiency and effectiveness comparing with representative\nmethods.",
+    "authors": [
+        "Lei Yu",
+        "Huan Liu"
+    ],
+    "id": "yu04a",
+    "issue": 44,
+    "pages": [
+        1205,
+        1224
+    ],
+    "title": "Efficient Feature Selection via Analysis of Relevance and Redundancy",
+    "volume": "5",
+    "year": "2004"
+}

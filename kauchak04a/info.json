@@ -1,0 +1,17 @@
+{
+    "abstract": "In this paper, we examine an important recent rule-based information extraction (IE) technique named Boosted Wrapper Induction (BWI) by conducting experiments on a wider variety of tasks than previously studied, including tasks using several collections of natural text documents.  We investigate systematically how each algorithmic component of BWI, in particular boosting, contributes to its success.  We show that the benefit of boosting arises from the ability to reweight examples to learn specific rules (resulting in high precision) combined with the ability to continue learning rules after all positive examples have been covered (resulting in high recall).  As a quantitative indicator of the regularity of an extraction task, we propose a new measure that we call the SWI ratio.  We show that this measure is a good predictor of IE success and a useful tool for analyzing IE tasks.  Based on these results, we analyze the strengths and limitations of BWI.  Specifically, we explain limitations in the information made available, and in the representations used.  We also investigate the consequences of the fact that confidence values returned during extraction are not true probabilities.  Next, we investigate the benefits of including grammatical and semantic information for natural text documents, as well as parse tree and attribute-value information for XML and HTML documents.  We show experimentally that incorporating even limited grammatical information can increase the regularity of natural text extraction tasks, resulting in improved performance.  We conclude with proposals for enriching the representational power of BWI and other IE methods to exploit these and other types of regularities.",
+    "authors": [
+        "David Kauchak",
+        "Joseph Smarr",
+        "Charles Elkan"
+    ],
+    "id": "kauchak04a",
+    "issue": 18,
+    "pages": [
+        499,
+        527
+    ],
+    "title": "Sources of Success for Boosted Wrapper Induction",
+    "volume": "5",
+    "year": "2004"
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "This work is concerned with the question of how to combine online\n an ensemble of active learners so as to expedite the learning\n progress in pool-based active learning. We develop an\n active-learning master algorithm, based on a known competitive algorithm\n for the multi-armed bandit problem. A major challenge in\n successfully choosing top performing active learners online is to\n reliably estimate their progress during the learning session. To this\n end we propose a simple maximum entropy criterion that provides\n effective estimates in realistic settings. We study the\n performance of the proposed master algorithm using an ensemble\n containing two of the best known active-learning algorithms as\n well as a new algorithm. The resulting active-learning master\n algorithm is empirically shown to consistently perform almost as\n well as and sometimes outperform the best algorithm in the\n ensemble on a range of classification problems.",
+    "authors": [
+        "Yoram Baram",
+        "Ran El Yaniv",
+        "Kobi Luz"
+    ],
+    "id": "baram04a",
+    "issue": 10,
+    "pages": [
+        255,
+        291
+    ],
+    "title": "Online Choice of Active Learning Algorithms",
+    "volume": "5",
+    "year": "2004"
+}

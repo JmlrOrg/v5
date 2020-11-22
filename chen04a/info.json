@@ -1,0 +1,16 @@
+{
+    "abstract": "Designing computer programs to automatically categorize images \nusing low-level features is a challenging research topic in \ncomputer vision. In this paper, we present a new learning technique, \nwhich extends Multiple-Instance Learning (MIL), and its application \nto the problem of region-based image categorization. Images are \nviewed as bags, each of which contains a number of instances \ncorresponding to regions obtained from image segmentation. The \nstandard MIL problem assumes that a bag is labeled positive if at \nleast one of its instances is positive; otherwise, the bag is \nnegative. In the proposed MIL framework, DD-SVM, a bag label \nis determined by some number of instances satisfying various \nproperties. DD-SVM first learns a collection of <i> instance \nprototypes</i> according to a Diverse Density (DD) function. Each \ninstance prototype represents a class of instances that is more \nlikely to appear in bags with the specific label than in the \nother bags. A nonlinear mapping is then defined using the instance \nprototypes and maps every bag to a point in a new feature space, \nnamed the <i> bag feature space</i>. Finally, standard support \nvector machines are trained in the bag feature space. We provide \nexperimental results on an image categorization problem and a \ndrug activity prediction problem.",
+    "authors": [
+        "Yixin Chen",
+        "James Z. Wang"
+    ],
+    "id": "chen04a",
+    "issue": 33,
+    "pages": [
+        913,
+        939
+    ],
+    "title": "Image Categorization by Learning and Reasoning with Regions",
+    "volume": "5",
+    "year": "2004"
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "In this paper we investigate connections between statistical learning\n theory and data compression on the basis of support vector machine\n (SVM) model selection.  Inspired by several generalization bounds we\n construct \"compression coefficients\" for SVMs which measure the\n amount by which the training labels can be compressed by a code built\n from the separating hyperplane.  The main idea is to relate the coding\n precision to geometrical concepts such as the width of the margin or\n the shape of the data in the feature space. The so derived compression\n coefficients combine  well known quantities such as the radius-margin\n term <i>R</i><sup>2</sup>/&rho;<sup>2</sup>, \n the eigenvalues of the kernel matrix, and the\n number of support vectors. To test whether they are useful in practice\n we ran model selection experiments on benchmark data sets. As\n a result we found that compression coefficients can fairly accurately\n predict the parameters for which the test error is minimized.",
+    "authors": [
+        "Ulrike von Luxburg",
+        "Olivier Bousquet",
+        "Bernhard Sch&ouml;lkopf"
+    ],
+    "id": "luxburg04a",
+    "issue": 11,
+    "pages": [
+        293,
+        323
+    ],
+    "title": "A Compression Approach to Support Vector Model Selection",
+    "volume": "5",
+    "year": "2004"
+}

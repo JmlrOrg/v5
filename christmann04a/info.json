@@ -1,0 +1,16 @@
+{
+    "abstract": "The paper brings together methods from two disciplines: \nmachine learning theory and robust statistics.\nWe argue that robustness is an important aspect and\nwe show that many existing machine learning methods\nbased on the convex risk minimization principle have\n- besides other good properties - also the advantage \nof being robust. Robustness properties of machine learning \nmethods based on convex risk minimization are investigated \nfor the problem of pattern recognition.  Assumptions are \ngiven for the existence of the influence function of the \nclassifiers and for bounds on the influence function. \nKernel logistic regression, support vector machines, least \nsquares and the AdaBoost loss function are treated as\nspecial cases. Some results on the robustness of such methods \nare also obtained for the sensitivity curve and the maxbias, \nwhich are two other robustness criteria.  A sensitivity \nanalysis of the support vector machine is given.",
+    "authors": [
+        "Andreas Christmann",
+        "Ingo Steinwart"
+    ],
+    "id": "christmann04a",
+    "issue": 36,
+    "pages": [
+        1007,
+        1034
+    ],
+    "title": "On Robustness Properties of Convex Risk Minimization Methods for Pattern Recognition",
+    "volume": "5",
+    "year": "2004"
+}

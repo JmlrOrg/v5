@@ -1,0 +1,16 @@
+{
+    "abstract": "Haussler, Kearns, Seung and Tishby introduced the notion of a shell\r\n decomposition of the union bound as a means of understanding certain\r\n empirical phenomena in learning curves such as phase transitions. Here\r\n we use a variant of their ideas to derive an upper bound on the\r\n generalization error of a hypothesis computable from its training\r\n error and the histogram of training errors for the hypotheses in the\r\n class.  In most cases this new bound is significantly tighter than\r\n traditional bounds computed from the training error and the\r\n cardinality of the class.  Our results can also be viewed as providing\r\n a rigorous foundation for a model selection algorithm proposed by\r\n Scheffer and Joachims.",
+    "authors": [
+        "John Langford",
+        "David McAllester"
+    ],
+    "id": "langford04a",
+    "issue": 19,
+    "pages": [
+        529,
+        547
+    ],
+    "title": "Computable Shell Decomposition Bounds",
+    "volume": "5",
+    "year": "2004"
+}

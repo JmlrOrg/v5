@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper, we identify two issues involved in developing an \nautomated feature subset selection algorithm for unlabeled data:\nthe need for finding the number of clusters in conjunction with \nfeature selection, and the need for normalizing the bias of fe\nature selection criteria with respect to dimension. \nWe explore the feature selection problem and these issues through FSSEM\n(Feature Subset Selection using Expectation-Maximization (EM) clustering) \nand through two different performance criteria for evaluating candidate\nfeature subsets: scatter separability and maximum likelihood.  \nWe present proofs on the dimensionality biases of these feature \ncriteria, and present a cross-projection normalization scheme that \ncan be applied to any criterion to ameliorate these biases.\nOur experiments show the need for feature selection, the need for addressing\nthese two issues, and the effectiveness of our proposed solutions.",
+    "authors": [
+        "Jennifer G. Dy",
+        "Carla E. Brodley"
+    ],
+    "id": "dy04a",
+    "issue": 31,
+    "pages": [
+        845,
+        889
+    ],
+    "title": "Feature Selection for Unsupervised Learning",
+    "volume": "5",
+    "year": "2004"
+}

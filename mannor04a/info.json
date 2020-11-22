@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider the problem of reinforcement learning in a controlled\n Markov environment with multiple objective functions of the\n long-term average reward type. The environment is initially\n unknown, and furthermore may be affected by the actions of other\n agents, actions that are observed but cannot be predicted\n beforehand. We capture this situation using a stochastic game\n model, where the learning agent is facing an adversary whose\n policy is arbitrary and unknown, and where the reward function is\n vector-valued. State recurrence conditions are imposed throughout.\n In our basic problem formulation, a desired target set is\n specified in the vector reward space, and the objective of the\n learning agent is to <em>approach</em> the target set, in the sense\n that the long-term average reward vector will belong to this set.\n We devise appropriate learning algorithms, that essentially use\n multiple reinforcement learning algorithms for the standard scalar\n reward problem, which are combined using the geometric insight\n from the theory of approachability for vector-valued stochastic\n games. We then address the more general and optimization-related\n problem, where a nested class of possible target sets is\n prescribed, and the goal of the learning agent is to approach the\n smallest possible target set (which will generally depend on the\n unknown system parameters). A particular case which falls into\n this framework is that of stochastic games with average reward\n constraints, and further specialization provides a reinforcement\n learning algorithm for constrained Markov decision processes. Some\n basic examples are provided to illustrate these results.",
+    "authors": [
+        "Shie Mannor",
+        "Nahum Shimkin"
+    ],
+    "id": "mannor04a",
+    "issue": 12,
+    "pages": [
+        325,
+        360
+    ],
+    "title": "A Geometric Approach to Multi-Criterion Reinforcement Learning",
+    "volume": "5",
+    "year": "2004"
+}

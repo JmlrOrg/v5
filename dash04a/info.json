@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper we consider the problem of\nperforming Bayesian model-averaging over a class of discrete\nBayesian network structures consistent with a partial ordering and\nwith bounded in-degree <i>k</i>. We show that for <i>N</i> nodes this class\ncontains in the worst-case at least <img align=middle src=dash04a-omega.jpeg alt=\"omega eq\">\ndistinct network structures, and yet model averaging\nover these structures can be performed using <img align=middle src=dash04a-bigo.jpeg alt=\"bigo eq\">\noperations. Furthermore we show that there exists a\nsingle Bayesian network that defines a joint distribution over the\nvariables that is equivalent to model averaging over these\nstructures. Although constructing this network is computationally\nprohibitive, we show that it can be approximated by a tractable\nnetwork, allowing approximate model-averaged probability\ncalculations to be performed in <i>O(N)</i> time. Our result also\nleads to an exact and linear-time solution to the problem of\naveraging over the 2<sup><i>N</i></sup> possible feature sets in a naive Bayes\nmodel, providing an exact Bayesian solution to the troublesome\nfeature-selection problem for naive Bayes classifiers. We\ndemonstrate the utility of these techniques in the context of\nsupervised classification, showing empirically that model\naveraging consistently beats other generative\nBayesian-network-based models, even when the generating model is\nnot guaranteed to be a member of the class being averaged over. We\ncharacterize the performance over several parameters on simulated\nand real-world data.",
+    "authors": [
+        "Denver Dash",
+        "Gregory F. Cooper"
+    ],
+    "id": "dash04a",
+    "issue": 43,
+    "pages": [
+        1177,
+        1203
+    ],
+    "title": "Model Averaging for Prediction with Discrete Bayesian Networks",
+    "volume": "5",
+    "year": "2004"
+}

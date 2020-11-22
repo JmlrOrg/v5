@@ -1,0 +1,17 @@
+{
+    "abstract": "In order to study the convergence properties of the AdaBoost\nalgorithm, we reduce AdaBoost to a nonlinear iterated map and\nstudy the evolution of its weight vectors. This dynamical systems\napproach allows us to understand AdaBoost's convergence properties\ncompletely in certain cases; for these cases we find stable\ncycles, allowing us to explicitly solve for AdaBoost's output.\n<p>\n\nUsing this unusual technique, we are able to show that AdaBoost\ndoes not always converge to a maximum margin combined classifier,\nanswering an open question. In addition, we show that\n\"non-optimal\" AdaBoost (where the weak learning algorithm does\nnot necessarily choose the best weak classifier at each iteration)\nmay fail to converge to a maximum margin classifier, even if\n\"optimal\" AdaBoost produces a maximum margin. Also, we show that\nif AdaBoost cycles, it cycles among \"support vectors\", i.e.,\nexamples that achieve the same smallest margin.",
+    "authors": [
+        "Cynthia Rudin",
+        "Ingrid Daubechies",
+        "Robert E. Schapire"
+    ],
+    "id": "rudin04a",
+    "issue": 56,
+    "pages": [
+        1557,
+        1595
+    ],
+    "title": "The Dynamics of AdaBoost: Cyclic Behavior and Convergence of Margins",
+    "volume": "5",
+    "year": "2004"
+}

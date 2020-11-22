@@ -1,0 +1,15 @@
+{
+    "abstract": "In this paper we consider the generalization\naccuracy of classification methods based on the iterative use of\nlinear classifiers. The resulting classifiers, which we call <i>threshold decision lists</i> act as follows. Some points of the data\nset to be classified are given a particular classification\naccording to a linear threshold function (or hyperplane). These\nare then removed from consideration, and the procedure is iterated\nuntil all points are classified. Geometrically, we can imagine\nthat at each stage, points of the same classification are\nsuccessively chopped off from the data set by a hyperplane.\n We analyse theoretically the generalization properties of data classification techniques\n that are based on the\n use of threshold decision lists and on the special subclass of <i>multilevel threshold\n functions</i>. We present bounds on the generalization error in a standard probabilistic learning framework.\n The primary focus in this paper is on obtaining generalization error bounds\n that\n depend on the levels of separation---or <i>margins</i>---achieved by the successive linear\n classifiers. We also improve and extend previously published\n theoretical bounds on the generalization ability of perceptron\n decision trees.",
+    "authors": [
+        "Martin Anthony"
+    ],
+    "id": "anthony04a",
+    "issue": 7,
+    "pages": [
+        189,
+        217
+    ],
+    "title": "Generalization Error Bounds for Threshold Decision Lists",
+    "volume": "5",
+    "year": "2004"
+}

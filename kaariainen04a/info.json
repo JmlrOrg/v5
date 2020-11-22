@@ -1,0 +1,17 @@
+{
+    "abstract": "Rademacher penalization is a modern technique for obtaining\ndata-dependent bounds on the generalization error of classifiers.  It\nappears to be limited to relatively simple hypothesis classes because of\ncomputational complexity issues.  In this paper we, nevertheless, apply\nRademacher penalization to the in practice important hypothesis class of\nunrestricted decision trees by considering the prunings of a given\ndecision tree rather than the tree growing phase.  This study\nconstitutes the first application of Rademacher penalization to  \nhypothesis classes that have practical significance.  We present two \nvariations of the approach, one in which the hypothesis class consists of \nall prunings of the initial tree and another in which only the prunings \nthat are accurate on growing data are taken into account.  Moreover, we \ngeneralize the error-bounding approach from binary classification to \nmulti-class situations.  Our empirical experiments indicate that the \nproposed new bounds outperform distribution-independent bounds for \ndecision tree prunings and provide non-trivial error estimates on \nreal-world data sets.",
+    "authors": [
+        "Matti K&#228;&#228;ri&#228;inen",
+        "Tuomo Malinen",
+        "Tapio Elomaa"
+    ],
+    "id": "kaariainen04a",
+    "issue": 40,
+    "pages": [
+        1107,
+        1126
+    ],
+    "title": "Selective Rademacher Penalization and Reduced Error Pruning of Decision Trees",
+    "volume": "5",
+    "year": "2004"
+}

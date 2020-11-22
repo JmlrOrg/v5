@@ -1,0 +1,16 @@
+{
+    "abstract": "It has been recently shown that sharp generalization\n   bounds can be obtained when the function class from which the algorithm\n   chooses its hypotheses is \"small\" in the sense that the  Rademacher averages \n of this function class are small.\n We show that a new more general principle guarantees good generalization bounds.\n The new principle\n   requires that  random coordinate projections \n of the function class evaluated on random samples are \"small\" with high\n   probability and that the random class of functions allows symmetrization.\n As an example, we prove that this geometric\n   property of the function class is exactly the reason why the two lately proposed \n frameworks, the <em>luckiness</em> (Shawe-Taylor et al., 1998) and the <em>algorithmic\n   luckiness</em> (Herbrich and Williamson, 2002), can be used to establish generalization  bounds.",
+    "authors": [
+        "Shahar Mendelson",
+        "Petra Philips"
+    ],
+    "id": "mendelson04a",
+    "issue": 8,
+    "pages": [
+        219,
+        238
+    ],
+    "title": "On the Importance of Small Coordinate Projections",
+    "volume": "5",
+    "year": "2004"
+}

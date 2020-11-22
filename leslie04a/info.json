@@ -1,0 +1,16 @@
+{
+    "abstract": "We describe several families of <i>k</i>-mer based string kernels \nrelated to the recently presented mismatch kernel and designed\nfor use with support vector machines (SVMs) for classification\nof protein sequence data.  These new kernels -- restricted gappy \nkernels, substitution kernels, and wildcard kernels -- are based \non feature spaces indexed by <i>k</i>-length subsequences (\"<i>k</i>-mers\") \nfrom the string alphabet &#931.  However, for all kernels we \ndefine here, the kernel value <i>K</i>(<i>x,y</i>) can be computed in \n<i>O</i>(<i>c<sub>K</sub></i>(|<i>x</i>|+|<i>y</i>|)) time, where the constant \n<i>c<sub>K</sub></i> depends\non the parameters of the kernel but is independent of the size \n|&#931| of the alphabet.  Thus the computation of these kernels \nis linear in the length of the sequences, like the mismatch kernel, \nbut we improve upon the parameter-dependent constant \n<i>c<sub>K</sub> = k<sup>m+1</sup></i>|<i>&#931</i>|<i><sup>m</sup></i> \nof the (<i>k,m</i>)-mismatch kernel.\nWe compute the kernels efficiently using  a trie data structure \nand relate our new kernels to the recently described transducer \nformalism.  In protein classification experiments on two benchmark \nSCOP data sets, we show that our new faster kernels achieve SVM \nclassification performance comparable to the mismatch kernel and \nthe Fisher kernel derived from profile hidden Markov models, and \nwe investigate the dependence of the kernels on parameter choice.",
+    "authors": [
+        "Christina Leslie",
+        "Rui Kuang"
+    ],
+    "id": "leslie04a",
+    "issue": 52,
+    "pages": [
+        1435,
+        1455
+    ],
+    "title": "Fast String Kernels using Inexact Matching for Protein Sequences",
+    "volume": "5",
+    "year": "2004"
+}

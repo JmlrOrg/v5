@@ -1,0 +1,16 @@
+{
+    "abstract": "Pairwise proximity data, given as similarity or dissimilarity matrix, \ncan violate metricity. This occurs either due to\nnoise, fallible estimates, or due to intrinsic non-metric features\nsuch as they arise from human judgments. So far the problem of \nnon-metric pairwise data has been tackled by essentially omitting \nthe negative eigenvalues or shifting the spectrum of the associated \n(pseudo-)covariance matrix for a subsequent embedding. However, \nlittle attention has been paid to the negative part of the spectrum \nitself. In particular no answer was given to whether the directions \nassociated to the negative eigenvalues would at all code variance other \nthan noise related. We show by a simple, <i>exploratory</i> analysis \nthat the negative eigenvalues <i>can</i> code for\nrelevant structure in the data, thus leading to the discovery of new\nfeatures, which were lost by conventional data analysis techniques.\nThe information hidden in the negative eigenvalue part of the\nspectrum is illustrated and discussed for three data sets, namely USPS\nhandwritten digits, text-mining and  data from cognitive psychology.",
+    "authors": [
+        "Julian Laub",
+        "Klaus-Robert M&uuml;ller"
+    ],
+    "id": "laub04a",
+    "issue": 29,
+    "pages": [
+        801,
+        818
+    ],
+    "title": "Feature Discovery in Non-Metric Pairwise Data",
+    "volume": "5",
+    "year": "2004"
+}

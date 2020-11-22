@@ -1,0 +1,18 @@
+{
+    "abstract": "Reuters Corpus Volume I (RCV1) is an archive of over 800,000 manually\r\n categorized newswire stories recently made available by Reuters,\r\n Ltd. for research purposes.  Use of this data for research on text\r\n categorization requires a detailed understanding of the real world\r\n constraints under which the data was produced.  Drawing on interviews\r\n with Reuters personnel and access to Reuters documentation, we\r\n describe the coding policy and quality control procedures used in\r\n producing the RCV1 data, the intended semantics of the hierarchical\r\n category taxonomies, and the corrections necessary to remove errorful\r\n data.  We refer to the original data as RCV1-v1, and the corrected\r\n data as RCV1-v2. We benchmark several widely used supervised learning\r\n methods on RCV1-v2, illustrating the collection's properties,\r\n suggesting new directions for research, and providing baseline results\r\n for future studies.  We make available detailed, per-category\r\n experimental results, as well as corrected versions of the category\r\n assignments and taxonomy structures, via online appendices.",
+    "authors": [
+        "David D. Lewis",
+        "Yiming Yang",
+        "Tony G. Rose",
+        "Fan Li"
+    ],
+    "id": "lewis04a",
+    "issue": 13,
+    "pages": [
+        361,
+        397
+    ],
+    "title": "RCV1: A New Benchmark Collection for Text Categorization Research",
+    "volume": "5",
+    "year": "2004"
+}

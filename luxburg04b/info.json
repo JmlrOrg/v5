@@ -1,0 +1,16 @@
+{
+    "abstract": "The goal of this article is to develop a framework for large margin\n classification in metric spaces.  We want to find a generalization of\n linear decision functions for metric spaces and define a corresponding\n notion of margin such that the decision function separates the\n training points with a large margin.  It will turn out that using\n Lipschitz functions as decision functions, the inverse of the\n Lipschitz constant can be interpreted as the size of a margin.  In\n order to construct a clean mathematical setup we isometrically embed\n the given metric space into a Banach space and the space of Lipschitz\n functions into its dual space.  To analyze the resulting algorithm, we\n prove several representer theorems. They state that there always\n exist solutions of the Lipschitz classifier which can be expressed in\n terms of distance functions to training points.  We provide\n generalization bounds for Lipschitz classifiers in terms of the\n Rademacher complexities of some Lipschitz function classes.  The\n generality of our approach can be seen from the fact that several\n well-known algorithms are special cases of the Lipschitz classifier,\n among them the support vector machine, the linear programming machine,\n and the 1-nearest neighbor classifier.",
+    "authors": [
+        "Ulrike von Luxburg",
+        "Olivier Bousquet"
+    ],
+    "id": "luxburg04b",
+    "issue": 25,
+    "pages": [
+        669,
+        695
+    ],
+    "title": "Distance-Based Classification with Lipschitz Functions",
+    "volume": "5",
+    "year": "2004"
+}

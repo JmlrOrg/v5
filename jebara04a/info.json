@@ -1,0 +1,17 @@
+{
+    "abstract": "The advantages of discriminative learning algorithms and kernel\nmachines are combined with generative modeling using a novel kernel\nbetween distributions. In the probability product kernel, data points\nin the input space are mapped to distributions over the sample space\nand a general inner product is then evaluated as the integral of the\nproduct of pairs of distributions. The kernel is straightforward to\nevaluate for all exponential family models such as multinomials and\nGaussians and yields interesting nonlinear kernels. Furthermore, the\nkernel is computable in closed form for latent distributions such as\nmixture models, hidden Markov models and linear dynamical systems. For\nintractable models, such as switching linear dynamical systems,\nstructured mean-field approximations can be brought to bear on the\nkernel evaluation. For general distributions, even if an analytic\nexpression for the kernel is not feasible, we show a straightforward\nsampling method to evaluate it. Thus, the kernel permits\ndiscriminative learning methods, including support vector machines, to\nexploit the properties, metrics and invariances of the generative\nmodels we infer from each datum. Experiments are shown using\nmultinomial models for text, hidden Markov models for biological\ndata sets and linear dynamical systems for time series data.",
+    "authors": [
+        "Tony Jebara",
+        "Risi Kondor",
+        "Andrew Howard"
+    ],
+    "id": "jebara04a",
+    "issue": 30,
+    "pages": [
+        819,
+        844
+    ],
+    "title": "Probability Product Kernels",
+    "volume": "5",
+    "year": "2004"
+}

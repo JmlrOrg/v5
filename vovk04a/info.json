@@ -1,0 +1,15 @@
+{
+    "abstract": "We study the problem of on-line classification in which the\r\n   prediction algorithm, for each \"significance level\" &delta;, is\r\n   required to output as its prediction a range of labels (intuitively,\r\n   those labels deemed compatible with the available data at the level\r\n   &delta;) \r\n rather than just one label; as usual, the examples are\r\n   assumed to be generated independently from the same probability\r\n   distribution <i>P</i>.  The prediction algorithm is said to be\r\n   \"well-calibrated\" for <i>P</i> and &delta; if the long-run relative\r\n   frequency of errors does not exceed &delta; almost surely w.r. to\r\n   <i>P</i>.  For well-calibrated algorithms we take the number of\r\n   \"uncertain\" predictions (i.e., those containing more than one\r\n   label) as the principal measure of predictive performance.  The main\r\n   result of this paper is the construction of a prediction algorithm\r\n   which, for any (unknown) <i>P</i> and any &delta;: (a) makes errors\r\n   independently and with probability &delta; at every trial (in\r\n   particular, is well-calibrated for <i>P</i> and &delta;); (b) makes in\r\n   the long run no more uncertain predictions than any other prediction\r\n   algorithm that is well-calibrated for <i>P</i> and &delta;; (c)\r\n   processes example <i>n</i> in time <i>O</i>(log <i>n</i>).",
+    "authors": [
+        "Vladimir Vovk"
+    ],
+    "id": "vovk04a",
+    "issue": 21,
+    "pages": [
+        575,
+        604
+    ],
+    "title": "A Universal Well-Calibrated Algorithm for On-line Classification",
+    "volume": "5",
+    "year": "2004"
+}

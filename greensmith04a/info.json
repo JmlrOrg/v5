@@ -1,0 +1,17 @@
+{
+    "abstract": "Policy gradient methods for reinforcement learning avoid some of the\nundesirable properties of the value function approaches, such as\npolicy degradation (Baxter and Bartlett, 2001).  However, the variance of the\nperformance gradient estimates obtained from the simulation is\nsometimes excessive.  In this paper, we consider variance reduction\nmethods that were developed for Monte Carlo estimates of integrals.\nWe study two commonly used policy gradient techniques, the baseline\nand actor-critic methods, from this perspective.  Both can be\ninterpreted as additive control variate variance reduction methods.\nWe consider the expected average reward performance measure, and we\nfocus on the GPOMDP algorithm for estimating performance gradients in\npartially observable Markov decision processes controlled by\nstochastic reactive policies.  We give bounds for the estimation error\nof the gradient estimates for both baseline and actor-critic\nalgorithms, in terms of the sample size and mixing properties of the\ncontrolled system.  For the baseline technique, we compute the optimal\nbaseline, and show that the popular approach of using the average\nreward to define the baseline can be suboptimal.  For actor-critic\nalgorithms, we show that using the true value function as the critic\ncan be suboptimal.  We also discuss algorithms for estimating the\noptimal baseline and approximate value function.",
+    "authors": [
+        "Evan Greensmith",
+        "Peter L. Bartlett",
+        "Jonathan Baxter"
+    ],
+    "id": "greensmith04a",
+    "issue": 54,
+    "pages": [
+        1471,
+        1530
+    ],
+    "title": "Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning",
+    "volume": "5",
+    "year": "2004"
+}

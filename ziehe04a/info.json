@@ -1,0 +1,18 @@
+{
+    "abstract": "A new efficient algorithm is presented for joint diagonalization \nof several matrices. The algorithm is based on the Frobenius-norm\nformulation of the joint diagonalization problem, and addresses\ndiagonalization with a general, non-orthogonal transformation. The\niterative scheme of the algorithm is based on a multiplicative\nupdate which ensures the invertibility of the diagonalizer.  The\nalgorithm's efficiency stems from the special approximation of the\ncost function resulting in a sparse, block-diagonal Hessian to be\nused in the computation of the quasi-Newton update step.  Extensive\nnumerical simulations illustrate the performance of the algorithm\nand provide a comparison to other leading diagonalization methods.\nThe results of such comparison demonstrate that the proposed\nalgorithm is a viable alternative to existing state-of-the-art joint\ndiagonalization algorithms.  The practical use of our algorithm is\nshown for blind source separation problems.",
+    "authors": [
+        "Andreas Ziehe",
+        "Pavel Laskov",
+        "Guido Nolte",
+        "Klaus-Robert M&uuml;ller"
+    ],
+    "id": "ziehe04a",
+    "issue": 28,
+    "pages": [
+        777,
+        800
+    ],
+    "title": "A Fast Algorithm for Joint Diagonalization with Non-orthogonal Transformations and its Application to Blind Source Separation",
+    "volume": "5",
+    "year": "2004"
+}

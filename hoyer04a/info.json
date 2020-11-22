@@ -1,0 +1,15 @@
+{
+    "abstract": "Non-negative matrix factorization (NMF) is a recently developed \ntechnique for finding parts-based, linear representations of \nnon-negative data. Although it has successfully been applied \nin several applications, it does not always result in parts-based \nrepresentations. In this paper, we show how explicitly incorporating \nthe notion of 'sparseness' improves the found decompositions. \nAdditionally, we provide complete MATLAB code both for standard \nNMF and for our extension. Our hope is that this will further \nthe application of these methods to solving novel data-analysis \nproblems.",
+    "authors": [
+        "Patrik O. Hoyer"
+    ],
+    "id": "hoyer04a",
+    "issue": 53,
+    "pages": [
+        1457,
+        1469
+    ],
+    "title": "Non-negative Matrix Factorization with Sparseness Constraints",
+    "volume": "5",
+    "year": "2004"
+}

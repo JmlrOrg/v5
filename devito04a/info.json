@@ -1,0 +1,19 @@
+{
+    "abstract": "In regularized kernel methods, the solution of a learning problem\nis found by minimizing functionals consisting of the sum of a data\nand a complexity term. In this paper we investigate some\nproperties of a more general form of the above functionals in\nwhich the data term corresponds to the expected risk. First, we\nprove a quantitative version of the representer theorem holding\nfor both regression and classification, for both differentiable\nand non-differentiable loss functions, and for arbitrary offset\nterms. Second, we show that the case in which the offset space is\nnon trivial corresponds to solving a standard problem of\nregularization in a Reproducing Kernel Hilbert Space in which the\npenalty term is given by a seminorm. Finally, we discuss the\nissues of existence and uniqueness of the solution. From the\nspecialization of our analysis to the discrete setting it is\nimmediate to establish a connection between the solution\nproperties of sparsity and coefficient boundedness and some\nproperties of the loss function. For the case of Support Vector Machines for\nclassification, we also obtain a complete characterization of the\nwhole method in terms of the Khun-Tucker conditions with no need\nto introduce the dual formulation.",
+    "authors": [
+        "Ernesto De Vito",
+        "Lorenzo Rosasco",
+        "Andrea Caponnetto",
+        "Michele Piana",
+        "Alessandro Verri"
+    ],
+    "id": "devito04a",
+    "issue": 49,
+    "pages": [
+        1363,
+        1390
+    ],
+    "title": "Some Properties of Regularized Kernel Methods",
+    "volume": "5",
+    "year": "2004"
+}

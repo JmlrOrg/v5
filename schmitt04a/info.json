@@ -1,0 +1,15 @@
+{
+    "abstract": "The computational complexity of learning from binary examples is\ninvestigated for linear threshold neurons.  We introduce\ncombinatorial measures that create classes of infinitely many\nlearning problems with sample restrictions.  We analyze how the\ncomplexity of these problems depends on the values for the measures.\nThe results are established as dichotomy theorems showing that each\nproblem is either NP-complete or solvable in polynomial time.  In\nparticular, we consider consistency and maximum consistency problems\nfor neurons with binary weights, and maximum consistency problems\nfor neurons with arbitrary weights. We determine for each problem\nclass the dividing line between the NP-complete and polynomial-time\nsolvable problems. Moreover, all efficiently solvable problems are\nshown to have constructive algorithms that require no more than\nlinear time on a random access machine model.  Similar dichotomies\nare exhibited for neurons with bounded threshold.  The results\ndemonstrate on the one hand that the consideration of sample\nconstraints can lead to the discovery of new efficient algorithms\nfor non-trivial learning problems. On the other hand, hard learning\nproblems may remain intractable even for severely restricted\nsamples.",
+    "authors": [
+        "Michael Schmitt"
+    ],
+    "id": "schmitt04a",
+    "issue": 32,
+    "pages": [
+        891,
+        912
+    ],
+    "title": "Some Dichotomy Theorems for Neural Learning Problems",
+    "volume": "5",
+    "year": "2004"
+}

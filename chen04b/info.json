@@ -1,0 +1,18 @@
+{
+    "abstract": "The purpose of this paper is to provide a PAC error analysis for\nthe <i>q</i>-norm soft margin classifier, a support vector machine\nclassification algorithm. It consists of two parts:\nregularization error and sample error. While many techniques\nare available for treating the sample error, much less is known\nfor the regularization error and the corresponding\napproximation error for reproducing\nkernel Hilbert spaces. We are mainly concerned about the\nregularization error. It is estimated for general distributions\nby a <i>K</i>-functional in weighted <i>L<sup>q</sup></i> spaces. For weakly\nseparable distributions (i.e., the margin may be zero)\nsatisfactory convergence rates are provided by means of separating functions.\nA projection operator is introduced, which leads to\nbetter sample error estimates especially for small complexity kernels.\nThe misclassification error is bounded\nby the <i>V</i>-risk associated with a general class of\nloss functions <i>V</i>. The difficulty of bounding the offset is overcome.\nPolynomial kernels and Gaussian kernels are used to\ndemonstrate the main results.\nThe choice of the regularization parameter\nplays an important role in our analysis.",
+    "authors": [
+        "Di-Rong Chen",
+        "Qiang Wu",
+        "Yiming Ying",
+        "Ding-Xuan Zhou"
+    ],
+    "id": "chen04b",
+    "issue": 42,
+    "pages": [
+        1143,
+        1175
+    ],
+    "title": "Support Vector Machine Soft Margin Classifiers: Error Analysis",
+    "volume": "5",
+    "year": "2004"
+}

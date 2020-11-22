@@ -1,0 +1,16 @@
+{
+    "abstract": "We study the learnability of Probabilistic Deterministic Finite State Automata  under a modified PAC-learning criterion. \n We argue that it is\n necessary to add additional parameters to the sample complexity polynomial, namely \n a bound on the expected length of strings generated from any state, and a bound on the distinguishability between states.\n With this, we demonstrate that the class of PDFAs is PAC-learnable using a variant of a standard state-merging algorithm \n and the Kullback-Leibler divergence as error function.",
+    "authors": [
+        "Alexander Clark",
+        "Franck Thollard"
+    ],
+    "id": "clark04a",
+    "issue": 17,
+    "pages": [
+        473,
+        497
+    ],
+    "title": "PAC-learnability of Probabilistic Deterministic Finite State Automata",
+    "volume": "5",
+    "year": "2004"
+}

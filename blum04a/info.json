@@ -1,0 +1,18 @@
+{
+    "abstract": "In this paper we explore the relationship between\n \"preference elicitation\", a learning-style problem that arises in\n combinatorial auctions, and the problem of learning via queries\n studied in computational learning theory.  Preference elicitation is\n the process of asking questions about the preferences of bidders so as\n to best divide some set of goods.  As a learning problem, it can be\n thought of as a setting in which there are multiple target concepts\n that can each be queried separately, but where the goal is not so much\n to learn each concept as it is to produce an \"optimal example\".  In\n this work, we prove a number of similarities and differences between\n two-bidder preference elicitation and query learning, giving both separation\n results and proving some connections between these problems.",
+    "authors": [
+        "Avrim Blum",
+        "Jeffrey Jackson",
+        "Tuomas Sandholm",
+        "Martin Zinkevich"
+    ],
+    "id": "blum04a",
+    "issue": 24,
+    "pages": [
+        649,
+        667
+    ],
+    "title": "Preference Elicitation and Query Learning",
+    "volume": "5",
+    "year": "2004"
+}

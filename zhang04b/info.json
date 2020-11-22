@@ -1,0 +1,15 @@
+{
+    "abstract": "The purpose of this paper is to investigate statistical properties of\nrisk minimization based  multi-category classification methods. \nThese methods can be considered as natural extensions of binary large \nmargin classification. We establish conditions that guarantee the \nconsistency of classifiers obtained in the risk minimization framework\nwith respect to the classification error. \nExamples are provided for four specific forms of the general formulation, \nwhich extend a number of known methods.\nUsing these examples, we show that some risk minimization formulations \ncan also be used to obtain conditional probability estimates\nfor the underlying problem. Such conditional probability information\ncan be useful for statistical inferencing tasks beyond classification.",
+    "authors": [
+        "Tong Zhang"
+    ],
+    "id": "zhang04b",
+    "issue": 45,
+    "pages": [
+        1225,
+        1251
+    ],
+    "title": "Statistical Analysis of Some Multi-Category Large Margin Classification Methods",
+    "volume": "5",
+    "year": "2004"
+}

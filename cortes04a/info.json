@@ -1,0 +1,17 @@
+{
+    "abstract": "Many classification algorithms were originally designed for fixed-size\nvectors. Recent applications in text and speech processing and\ncomputational biology require however the analysis of variable-length\nsequences and more generally weighted automata. An approach widely\nused in statistical learning techniques such as Support Vector\nMachines (SVMs) is that of kernel methods, due to their computational\nefficiency in high-dimensional feature spaces.  We introduce a general\nfamily of kernels based on weighted transducers or rational relations,\n<i> rational kernels </i>, that extend kernel methods to the analysis of\nvariable-length sequences or more generally weighted automata.  We\nshow that rational kernels can be computed efficiently using a general\nalgorithm of composition of weighted transducers and a general\nsingle-source shortest-distance algorithm.\n\n<p>\nNot all rational kernels are <i> positive definite and symmetric </i>\n(PDS), or equivalently verify the Mercer condition, a condition that\nguarantees the convergence of training for discriminant classification\nalgorithms such as SVMs. We present several theoretical results\nrelated to PDS rational kernels. We show that under some general\nconditions these kernels are closed under sum, product, or\nKleene-closure and give a general method for constructing a PDS\nrational kernel from an arbitrary transducer defined on some\nnon-idempotent semirings. We give the proof of several\ncharacterization results that can be used to guide the design of PDS\nrational kernels. We also show that some commonly used string kernels\nor similarity measures such as the edit-distance, the convolution\nkernels of Haussler, and some string kernels used in the context of\ncomputational biology are specific instances of rational kernels.  Our\nresults include the proof that the edit-distance over a non-trivial\nalphabet is not <i>negative definite</i>, which, to the best of our\nknowledge, was never stated or proved before.\n\n<p>\nRational kernels can be combined with SVMs to form efficient and\npowerful techniques for a variety of classification tasks in text and\nspeech processing, or computational biology. We describe examples of\ngeneral families of PDS rational kernels that are useful in many of\nthese applications and report the result of our experiments\nillustrating the use of rational kernels in several difficult\nlarge-vocabulary spoken-dialog classification tasks based on deployed\nspoken-dialog systems. Our results show that rational kernels are easy\nto design and implement and lead to substantial improvements of the\nclassification accuracy.",
+    "authors": [
+        "Corinna Cortes",
+        "Patrick Haffner",
+        "Mehryar Mohri"
+    ],
+    "id": "cortes04a",
+    "issue": 37,
+    "pages": [
+        1035,
+        1062
+    ],
+    "title": "Rational Kernels: Theory and Algorithms",
+    "volume": "5",
+    "year": "2004"
+}

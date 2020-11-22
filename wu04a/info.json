@@ -1,0 +1,17 @@
+{
+    "abstract": "Pairwise coupling is a popular multi-class \nclassification method that combines all \ncomparisons for each pair of classes. \nThis paper presents two approaches for obtaining\nclass probabilities. \nBoth methods can be reduced to linear systems and\nare easy to implement. \nWe show conceptually and experimentally that\nthe proposed approaches are\nmore stable than the two existing popular methods: voting\nand the method by Hastie and Tibshirani (1998).",
+    "authors": [
+        "Ting-Fan Wu",
+        "Chih-Jen Lin",
+        "Ruby C. Weng"
+    ],
+    "id": "wu04a",
+    "issue": 35,
+    "pages": [
+        975,
+        1005
+    ],
+    "title": "Probability Estimates for Multi-class Classification by Pairwise Coupling",
+    "volume": "5",
+    "year": "2004"
+}

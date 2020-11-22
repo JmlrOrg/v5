@@ -1,0 +1,16 @@
+{
+    "abstract": "A novel approximation method is presented for approximating \nthe value function and selecting good actions for Markov \ndecision processes with large state and action spaces.  \nThe method approximates state-action values as negative \nfree energies in an undirected graphical model called a \nproduct of experts.  The model parameters can be learned \nefficiently because values and derivatives can be efficiently\ncomputed for a product of experts.  Actions can be found \neven in large factored action spaces by the use of Markov\nchain Monte Carlo sampling.  Simulation results show \nthat the product of experts approximation can be used to \nsolve large problems.  In one simulation it is used \nto find actions in action spaces of size 2<sup>40</sup>.",
+    "authors": [
+        "Brian Sallans",
+        "Geoffrey E. Hinton"
+    ],
+    "id": "sallans04a",
+    "issue": 38,
+    "pages": [
+        1063,
+        1088
+    ],
+    "title": "Reinforcement Learning with Factored States and Actions",
+    "volume": "5",
+    "year": "2004"
+}

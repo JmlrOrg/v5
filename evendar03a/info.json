@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper we derive convergence rates for Q-learning.\r\nWe show an interesting relationship between the convergence rate and\r\nthe learning rate used in Q-learning.\r\nFor a polynomial learning rate,\r\none which is 1/<i>t</i><sup>&omega;</sup> at time <i>t</i> where &omega;&isin;(1/2,1),\r\nwe show that the convergence rate is polynomial in 1/(1-&gamma;),\r\nwhere &gamma; is the discount factor.\r\nIn contrast we show that\r\nfor a linear learning rate, one which is 1/<i>t</i> at time <i>t</i>,\r\nthe convergence rate has an exponential dependence on 1/(1-&gamma;).\r\nIn addition we show a simple example that proves this exponential behavior\r\nis inherent for linear learning rates.",
+    "authors": [
+        "Eyal Even-Dar",
+        "Yishay Mansour"
+    ],
+    "id": "evendar03a",
+    "issue": 1,
+    "pages": [
+        1,
+        25
+    ],
+    "title": "Learning Rates for Q-learning",
+    "volume": "5",
+    "year": "2003"
+}

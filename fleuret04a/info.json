@@ -1,0 +1,15 @@
+{
+    "abstract": "We propose in this paper a very fast feature selection technique based\non conditional mutual information. By picking features which maximize\ntheir mutual information with the class to predict conditional to any\nfeature already picked, it ensures the selection of features which are\nboth individually informative and two-by-two weakly dependant. We show\nthat this feature selection method outperforms other classical\nalgorithms, and that a naive Bayesian classifier built with features\nselected that way achieves error rates similar to those of\nstate-of-the-art methods such as boosting or SVMs. The implementation\nwe propose selects 50 features among 40,000, based on a training\nset of 500 examples in a tenth of a second on a standard 1Ghz PC.",
+    "authors": [
+        "Fran&ccedil;ois Fleuret"
+    ],
+    "id": "/fleuret04a",
+    "issue": 55,
+    "pages": [
+        1531,
+        1555
+    ],
+    "title": "Fast Binary Feature Selection with Conditional Mutual Information",
+    "volume": "5",
+    "year": "2004"
+}

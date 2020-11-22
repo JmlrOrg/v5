@@ -1,0 +1,18 @@
+{
+    "abstract": "We study the problems of disambiguation in natural language, focusing on the\r\n problem of gene vs. protein name disambiguation in biological text and also\r\n considering the problem of context-sensitive spelling error correction. We\r\n introduce a new family of classifiers based on ordering and weighting the\r\n feature vectors obtained from word counts and word co-occurrence in the text, and\r\n inspect several concrete classifiers from this family. We obtain the most\r\n accurate prediction when weighting by positions of the words in the context. On\r\n the gene/protein name disambiguation problem, this classifier outperforms both\r\n the Naive Bayes and SNoW baseline classifiers. We also study the effect of the\r\n smoothing techniques with the Naive Bayes classifier, the collocation features,\r\n and the context length on the classification accuracy and show that correct\r\n setting of the context length is important and also\n problem-dependent.",
+    "authors": [
+        "Filip Ginter",
+        "Jorma Boberg",
+        "Jouni J&auml;rvinen",
+        "Tapio Salakoski"
+    ],
+    "id": "ginter04a",
+    "issue": 22,
+    "pages": [
+        605,
+        621
+    ],
+    "title": "New Techniques for Disambiguation in Natural Language and Their Application   to Biological Text",
+    "volume": "5",
+    "year": "2004"
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "In this article, we apply the independent component analysis technique for mining \n spatio-temporal data.  The technique has been applied to mine for patterns in \n weather data using the North Atlantic Oscillation (NAO) as a specific example. \n We find that the strongest independent components match the observed synoptic \n weather patterns corresponding to the NAO. We also validate our results by matching \n the independent component activities with the NAO index.",
+    "authors": [
+        "Jayanta Basak",
+        "Anant Sudarshan",
+        "Deepak Trivedi",
+        "M. S. Santhanam"
+    ],
+    "id": "basak04a",
+    "issue": 9,
+    "pages": [
+        239,
+        253
+    ],
+    "title": "Weather Data Mining Using Independent Component Analysis",
+    "volume": "5",
+    "year": "2004"
+}

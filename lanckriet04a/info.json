@@ -1,0 +1,19 @@
+{
+    "abstract": "Kernel-based learning algorithms work by embedding the data into a\n Euclidean space, and then searching for linear relations among the\n embedded data points. The embedding is performed implicitly, by\n specifying the inner products between each pair of points in the\n embedding space. This information is contained in the so-called\n kernel matrix, a symmetric and positive semidefinite matrix that\n encodes the relative positions of all points. Specifying this\n matrix amounts to specifying the geometry of the embedding space\n and inducing a notion of similarity in the input space---classical\n model selection problems in machine learning. In this paper we\n show how the kernel matrix can be learned from data via\n semidefinite programming (SDP) techniques. When applied to a\n kernel matrix associated with both training and test data this\n gives a powerful transductive algorithm---using the labeled part\n of the data one can learn an embedding also for the unlabeled\n part. The similarity between test points is inferred from training\n points and their labels. Importantly, these learning problems are\n convex, so we obtain a method for learning both the model class\n and the function without local minima. Furthermore, this approach\n leads directly to a convex method for learning the 2-norm soft margin\n parameter in support vector machines, solving an important open problem.",
+    "authors": [
+        "Gert R.G. Lanckriet",
+        "Nello Cristianini",
+        "Peter Bartlett",
+        "Laurent El Ghaoui",
+        "Michael I. Jordan"
+    ],
+    "id": "lanckriet04a",
+    "issue": 2,
+    "pages": [
+        27,
+        72
+    ],
+    "title": "Learning the Kernel Matrix with Semidefinite Programming",
+    "volume": "5",
+    "year": "2004"
+}

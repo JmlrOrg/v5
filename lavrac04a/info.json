@@ -1,0 +1,18 @@
+{
+    "abstract": "This paper investigates how to adapt standard classification rule\n   learning approaches to subgroup discovery. The goal of subgroup\n   discovery is to find rules describing subsets of the population\n   that are sufficiently large and statistically unusual. The paper\n   presents a subgroup discovery algorithm, <i>CN2-SD</i>, developed\n   by modifying parts of the CN2 classification rule learner: its\n   covering algorithm, search heuristic, probabilistic classification\n   of instances, and evaluation measures.  Experimental evaluation of\n   <i>CN2-SD</i> on 23 UCI data sets shows substantial reduction of\n   the number of induced rules, increased rule coverage and rule\n   significance, as well as slight improvements in terms of the area\n   under ROC curve, when compared with the CN2 algorithm. Application\n   of <i>CN2-SD</i> to a large traffic accident data set confirms\n   these findings.",
+    "authors": [
+        "Nada Lavra&#269;",
+        "Branko Kav&#353;ek",
+        "Peter Flach",
+        "Ljup&#269;o  Todorovski"
+    ],
+    "id": "lavrac04a",
+    "issue": 6,
+    "pages": [
+        153,
+        188
+    ],
+    "title": "Subgroup Discovery with CN2-SD",
+    "volume": "5",
+    "year": "2004"
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Learning a Bayesian network structure from data is a well-motivated but\r\n computationally hard task. We present an algorithm that computes the exact\r\n posterior probability of a subnetwork, e.g., a directed edge; a modified version\r\n of the algorithm finds one of the most probable network structures. This\r\n algorithm runs in time <i>O</i>(<i>n</i> 2<sup><i>n</i></sup> + <i>n</i><sup><i>k</i>+1</sup><i>C</i>(<i>m</i>)), where <i>n</i> is the number of\r\n network variables, <i>k</i> is a constant maximum in-degree, and  <i>C</i>(<i>m</i>) is the cost\r\n of computing a single local marginal conditional likelihood for <i>m</i> data instances. \r\n This is\r\n the first algorithm with less than super-exponential complexity with respect to\r\n <i>n</i>. Exact computation allows us to tackle complex cases where existing Monte\r\n Carlo methods and local search procedures potentially fail. We show that also in domains\r\n with a large number of variables, exact computation is feasible, given suitable\r\n a priori restrictions on the structures; combining exact and inexact methods is\r\n also possible.  We demonstrate the applicability of the presented algorithm on\r\n four synthetic data sets with 17, 22, 37, and 100 variables.",
+    "authors": [
+        "Mikko Koivisto",
+        "Kismat Sood"
+    ],
+    "id": "koivisto04a",
+    "issue": 20,
+    "pages": [
+        549,
+        573
+    ],
+    "title": "Exact Bayesian Structure Discovery in Bayesian Networks",
+    "volume": "5",
+    "year": "2004"
+}

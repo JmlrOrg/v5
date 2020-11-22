@@ -1,0 +1,18 @@
+{
+    "abstract": "The support vector machine (SVM) is a widely used tool for classification.\nMany efficient implementations exist for fitting a two-class SVM\nmodel. The user has to supply values for the tuning parameters: the\nregularization cost parameter, and the kernel parameters. It seems a\ncommon practice is to use a default value for the cost parameter,\noften leading to the least restrictive model. In this paper we argue\nthat the choice of the cost parameter can be critical. We then\nderive an algorithm that can fit the entire path of SVM solutions\nfor every value of the cost parameter, with essentially the same\ncomputational cost as fitting one SVM model. We illustrate our\nalgorithm on some examples, and use our representation to give\nfurther insight into the range of SVM solutions.",
+    "authors": [
+        "Trevor Hastie",
+        "Saharon Rosset",
+        "Robert Tibshirani",
+        "Ji Zhu"
+    ],
+    "id": "hastie04a",
+    "issue": 50,
+    "pages": [
+        1391,
+        1415
+    ],
+    "title": "The Entire Regularization Path for the Support Vector Machine",
+    "volume": "5",
+    "year": "2004"
+}

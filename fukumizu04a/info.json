@@ -1,0 +1,17 @@
+{
+    "abstract": "We propose a novel method of dimensionality reduction for\r\n supervised learning problems.  Given a regression or\r\n classification problem in which we wish to predict a response\r\n variable <i>Y</i> from an explanatory variable <i>X</i>, we treat the\r\n problem of dimensionality reduction as that of finding a\r\n low-dimensional \"effective subspace\" for <i>X</i> which retains the\r\n statistical relationship between <i>X</i> and <i>Y</i>. We show that this\r\n problem can be formulated in terms of conditional independence. To\r\n turn this formulation into an optimization problem we establish a\r\n general nonparametric characterization of conditional independence\r\n using covariance operators on reproducing kernel Hilbert spaces.\r\n This characterization allows us to derive a contrast function for\r\n estimation of the effective subspace. Unlike many conventional\r\n methods for dimensionality reduction in supervised learning, the\r\n proposed method requires neither assumptions on the marginal\r\n distribution of <i>X</i>, nor a parametric model of the conditional\r\n distribution of <i>Y</i>.  We present experiments that compare the\r\n performance of the method with conventional methods.",
+    "authors": [
+        "Kenji Fukumizu",
+        "Francis R. Bach",
+        "Michael I. Jordan"
+    ],
+    "id": "fukumizu04a",
+    "issue": 3,
+    "pages": [
+        73,
+        99
+    ],
+    "title": "Dimensionality Reduction for Supervised Learning with Reproducing Kernel Hilbert Spaces",
+    "volume": "5",
+    "year": "2004"
+}

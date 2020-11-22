@@ -1,0 +1,16 @@
+{
+    "abstract": "Bagging frequently improves the predictive performance of a model.\n   An online version has recently been introduced, which attempts to\n   gain the benefits of an online algorithm while approximating regular\n   bagging.  However, regular online bagging is an approximation to its\n   batch counterpart and so is not lossless with respect to the bagging\n   operation.  By operating under the Bayesian paradigm, we introduce\n   an online Bayesian version of bagging which is exactly equivalent to\n   the batch Bayesian version, and thus when combined with a lossless\n   learning algorithm gives a completely lossless online bagging\n   algorithm.  We also note that the Bayesian formulation resolves a\n   theoretical problem with bagging, produces less variability in\n   its estimates, and can improve predictive performance for smaller\n   data sets.",
+    "authors": [
+        "Herbert K. H. Lee",
+        "Merlise A. Clyde"
+    ],
+    "id": "lee04a",
+    "issue": 5,
+    "pages": [
+        143,
+        151
+    ],
+    "title": "Lossless Online Bayesian Bagging",
+    "volume": "5",
+    "year": "2004"
+}

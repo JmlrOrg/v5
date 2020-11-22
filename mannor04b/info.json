@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider the multi-armed bandit problem under the PAC (\"probably approximately correct\") model. It was shown by Even-Dar et al. (2002) that given <i>n</i> arms,  a total of <i>O</i>((<i>n</i>/&epsilon;<sup>2</sup>)log(1/&delta;)) trials suffices\r\n in order to find an\r\n &epsilon;-optimal arm with probability at least 1-&delta;. We establish a matching lower bound\r\n on the expected number of trials under any sampling policy.\r\n We furthermore generalize the lower bound, and show an explicit dependence on the (unknown) statistics of the arms.\r\n We  also provide a similar bound within a Bayesian setting.\r\n The case where the statistics of the arms are known but the identities of the arms\r\n are not, is also discussed.\r\n For this case, we provide a lower bound\r\n of &Theta;((1/&epsilon;<sup>2</sup>)(<i>n</i>+log(1/&delta;))) on the expected number of trials,\r\n as well as a sampling policy with a matching\r\n upper bound.\r\n If instead of  the expected number of trials, we consider the maximum (over all sample paths)\r\n number of trials, we establish a matching upper and lower  bound of the form\r\n &Theta;((<i>n</i>/&epsilon;<sup>2</sup>)log(1/&delta;)).\r\n Finally, we derive lower bounds on the expected regret, in the spirit of Lai and Robbins.",
+    "authors": [
+        "Shie Mannor",
+        "John N. Tsitsiklis"
+    ],
+    "id": "mannor04b",
+    "issue": 23,
+    "pages": [
+        623,
+        648
+    ],
+    "title": "The Sample Complexity of Exploration in the Multi-Armed Bandit Problem",
+    "volume": "5",
+    "year": "2004"
+}

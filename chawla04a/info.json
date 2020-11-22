@@ -1,0 +1,18 @@
+{
+    "abstract": "Bagging and boosting are two popular ensemble methods that typically achieve better accuracy than a single classifier. These\r\n techniques have limitations on massive data sets, because the size of the data set can be a bottleneck. Voting many\r\n classifiers built on small subsets of data (\"pasting small votes\") is a promising approach for learning from massive\r\n data sets, one that can utilize the power of boosting and bagging. We propose a framework for building hundreds or thousands of such classifiers on small subsets of data in a distributed environment. Experiments show this approach is fast, accurate, and scalable.",
+    "authors": [
+        "Nitesh V. Chawla",
+        "Lawrence O. Hall",
+        "Kevin W. Bowyer",
+        "W. Philip Kegelmeyer"
+    ],
+    "id": "chawla04a",
+    "issue": 15,
+    "pages": [
+        421,
+        451
+    ],
+    "title": "Learning Ensembles from Bites: A Scalable and Accurate Approach",
+    "volume": "5",
+    "year": "2004"
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "In this paper we study boosting methods from a new perspective. We\nbuild on recent work by Efron et al. to show that boosting\napproximately (and in some cases exactly) minimizes its loss\ncriterion with an <i>l<sub>1</sub></i> constraint on the coefficient \nvector. This\nhelps understand the success of boosting with early stopping as\nregularized fitting of the loss criterion. For the two most\ncommonly used criteria (exponential and binomial log-likelihood),\nwe further show that as the constraint is relaxed---or\nequivalently as the boosting iterations proceed---the solution\nconverges (in the separable case) to an \"<i>l<sub>1</sub></i>-optimal\"\nseparating hyper-plane.  We prove that this <i>l<sub>1</sub></i>-optimal\nseparating hyper-plane has the property of maximizing the minimal\n<i>l<sub>1</sub></i>-margin of the training data, as defined in the boosting\nliterature. An interesting fundamental similarity between boosting\nand kernel support vector machines emerges, as both can be\ndescribed as methods for regularized optimization in\nhigh-dimensional predictor space, using a computational trick to\nmake the calculation practical, and converging to\nmargin-maximizing solutions. While this statement describes SVMs\nexactly, it applies to boosting only approximately.",
+    "authors": [
+        "Saharon Rosset",
+        "Ji Zhu",
+        "Trevor Hastie"
+    ],
+    "id": "rosset04a",
+    "issue": 34,
+    "pages": [
+        941,
+        973
+    ],
+    "title": "Boosting as a Regularized Path to a Maximum Margin Classifier",
+    "volume": "5",
+    "year": "2004"
+}

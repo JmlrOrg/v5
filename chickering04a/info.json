@@ -1,0 +1,17 @@
+{
+    "abstract": "In this paper, we provide new complexity results for algorithms that\nlearn discrete-variable Bayesian networks from data.  Our results\napply whenever the learning algorithm uses a scoring criterion that\nfavors the simplest structure for which the model is able to represent\nthe generative distribution exactly. Our results therefore hold\nwhenever the learning algorithm uses a consistent scoring criterion\nand is applied to a sufficiently large dataset. We show that\nidentifying high-scoring structures is NP-hard, even when any\ncombination of one or more of the following hold: the generative\ndistribution is perfect with respect to some DAG containing hidden\nvariables; we are given an independence oracle; we are given an\ninference oracle; we are given an information oracle; we restrict\npotential solutions to structures in which each node has at most <i>k</i>\nparents, for all <i>k</i>>=3. \n<p>\nOur proof relies on a new technical result that we establish in the\nappendices. In particular, we provide a method for constructing the\nlocal distributions in a Bayesian network such that the resulting\njoint distribution is provably perfect with respect to the structure\nof the network.",
+    "authors": [
+        "David Maxwell Chickering",
+        "David Heckerman",
+        "Christopher Meek"
+    ],
+    "id": "chickering04a",
+    "issue": 47,
+    "pages": [
+        1287,
+        1330
+    ],
+    "title": "Large-Sample Learning of Bayesian Networks is NP-Hard",
+    "volume": "5",
+    "year": "2004"
+}

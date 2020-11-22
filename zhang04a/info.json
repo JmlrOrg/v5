@@ -1,0 +1,15 @@
+{
+    "abstract": "Latent class models are used for cluster analysis of \ncategorical data. Underlying such a model is the assumption\nthat  the observed variables are mutually independent \ngiven the class variable.\nA serious problem with the use of latent class\nmodels,  known as local dependence,\n is that this assumption is often\nuntrue. In this paper we propose hierarchical\nlatent class  models as a framework where the local dependence\nproblem can be addressed in a principled manner.\nWe develop a search-based algorithm for\nlearning hierarchical latent class models from data.\nThe algorithm is evaluated using both synthetic and \nreal-world data.",
+    "authors": [
+        "Nevin L. Zhang"
+    ],
+    "id": "zhang04a",
+    "issue": 26,
+    "pages": [
+        697,
+        723
+    ],
+    "title": "Hierarchical Latent Class Models for Cluster Analysis",
+    "volume": "5",
+    "year": "2004"
+}

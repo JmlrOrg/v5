@@ -1,0 +1,16 @@
+{
+    "abstract": "<p>\n   We present a novel approach for embedding general metric and\n   nonmetric spaces into low-dimensional Euclidean spaces. As opposed\n   to traditional multidimensional scaling techniques, which minimize\n   the distortion of pairwise distances, our embedding algorithm seeks\n   a low-dimensional representation of the data that preserves the\n   structure (geometry) of the original data.  The algorithm uses a\n   hybrid criterion function that combines the pairwise distortion with\n   what we call the geometric distortion. To assess the geometric\n   distortion, we explore functions that reflect geometric properties.\n   Our approach is different from the Isomap and LLE algorithms in that\n   the discrepancy in distributional information is used to guide the\n   embedding.  We use clustering algorithms in conjunction with our\n   embedding algorithm to direct the embedding process and improve its\n   convergence properties.\n   </p>\n<p>\n   We test our method on metric and nonmetric data sets, and in the\n   presence of noise.  We demonstrate that our method preserves the\n   structural properties of embedded data better than traditional MDS,\n   and that its performance is robust with respect to clustering errors\n   in the original data.  Other results of the paper include\n   accelerated algorithms for optimizing the standard MDS objective\n   functions, and two methods for finding the most appropriate\n   dimension in which to embed a given set of data.\n </p>",
+    "authors": [
+        "Michael Quist",
+        "Golan Yona"
+    ],
+    "id": "quist04a",
+    "issue": 14,
+    "pages": [
+        399,
+        420
+    ],
+    "title": "Distributional Scaling: An Algorithm for Structure-Preserving Embedding of Metric and Nonmetric Spaces",
+    "volume": "5",
+    "year": "2004"
+}

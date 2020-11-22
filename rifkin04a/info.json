@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider the problem of multiclass classification.  Our main\n thesis is that a simple \"one-vs-all\" scheme is as accurate as\n any other approach, assuming that the underlying binary\n classifiers are well-tuned regularized classifiers such as support vector machines.\n This thesis is interesting in that it disagrees with a large body\n of recent published work on multiclass classification.  We support\n our position by means of a critical review of the existing\n literature, a substantial collection of carefully controlled experimental\n work, and theoretical arguments.",
+    "authors": [
+        "Ryan Rifkin",
+        "Aldebaro Klautau"
+    ],
+    "id": "rifkin04a",
+    "issue": 4,
+    "pages": [
+        101,
+        141
+    ],
+    "title": "In Defense of One-Vs-All Classification",
+    "volume": "5",
+    "year": "2004"
+}

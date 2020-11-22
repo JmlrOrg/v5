@@ -1,0 +1,16 @@
+{
+    "abstract": "The present paper discusses robustness against outliers in a principal component analysis (PCA).\r\n We propose a class of procedures for PCA based on the minimum psi principle, which unifies various approaches, including the classical procedure and recently proposed procedures.\r\n The reweighted matrix algorithm for off-line data and the gradient algorithm for on-line data are both investigated with respect to robustness.\r\n The reweighted matrix algorithm is shown to satisfy a desirable property with local convergence, and the on-line gradient algorithm is shown to satisfy an asymptotical stability of convergence.\r\n Some procedures in the class involve tuning parameters, which control sensitivity to outliers.\r\n We propose a shape-adaptive selection rule for tuning parameters using K-fold cross validation.",
+    "authors": [
+        "Isao Higuchi",
+        "Shinto Eguchi"
+    ],
+    "id": "higuchi04a",
+    "issue": 16,
+    "pages": [
+        453,
+        471
+    ],
+    "title": "Robust Principal Component Analysis with Adaptive Selection for Tuning   Parameters",
+    "volume": "5",
+    "year": "2004"
+}

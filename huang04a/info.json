@@ -1,0 +1,19 @@
+{
+    "abstract": "We construct a distribution-free Bayes optimal classifier called the Minimum\nError  Minimax Probability Machine (MEMPM) in a worst-case setting, i.e., under\nall possible choices of class-conditional densities with a given mean and\ncovariance matrix. By assuming no specific distributions for the data, our\nmodel is thus distinguished from traditional Bayes optimal approaches, where an\nassumption on the data distribution is a must. This model is extended from the\nMinimax Probability Machine (MPM), a recently-proposed novel classifier, and is\ndemonstrated to be the general case of MPM. Moreover, it includes another\nspecial case named the Biased Minimax Probability Machine, which is appropriate for handling biased classification. One appealing feature of MEMPM is that it\ncontains an explicit performance indicator, i.e., a lower bound on the\nworst-case accuracy, which is shown to be tighter than that of MPM.  We provide\nconditions under which the worst-case Bayes optimal classifier converges to the\nBayes optimal classifier. We demonstrate how to apply a more general\nstatistical framework to  estimate model input parameters robustly. We also\nshow how to extend our model to nonlinear classification by exploiting\nkernelization techniques. A series of experiments on both synthetic data sets\nand real world benchmark data sets validates our proposition and demonstrates\nthe effectiveness of our model.",
+    "authors": [
+        "Kaizhu Huang",
+        "Haiqin Yang",
+        "Irwin King",
+        "Michael R. Lyu",
+        "Laiwan Chan"
+    ],
+    "id": "huang04a",
+    "issue": 46,
+    "pages": [
+        1253,
+        1286
+    ],
+    "title": "The Minimum Error Minimax Probability Machine",
+    "volume": "5",
+    "year": "2004"
+}

@@ -1,0 +1,15 @@
+{
+    "abstract": "This paper addresses the issue of feature selection for linear \nclassifiers given the moments of the class conditional\ndensities. The problem is posed as finding a minimal set of features \nsuch that the resulting classifier has a low misclassification \nerror. Using a bound on the misclassification error involving the \nmean and covariance of class conditional densities and minimizing an \n<i>L<sub>1</sub></i> norm as an approximate criterion for feature selection, a \nsecond order programming formulation is derived. To handle errors \nin estimation of mean and covariances, a tractable robust formulation \nis also discussed. In a slightly different setting the Fisher \ndiscriminant is derived. Feature selection for Fisher discriminant \nis also discussed. Experimental results on synthetic data sets and \non real life microarray data show that the proposed formulations \nare competitive with the state of the art linear programming formulation.",
+    "authors": [
+        "Chiranjib Bhattacharyya"
+    ],
+    "id": "bhattacharyya04a",
+    "issue": 51,
+    "pages": [
+        1417,
+        1433
+    ],
+    "title": "Second Order Cone Programming Formulations for Feature Selection",
+    "volume": "5",
+    "year": "2004"
+}
